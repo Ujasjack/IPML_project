@@ -9,8 +9,8 @@ Street View Housing Number Detection(SVHN)
 2. Pandas
 3. PIL
 4. Ipython.display
-5. tesnserflow
-6. matplotlib
+5. Tenserflow
+6. Matplotlib
 
 # Steps to Execute Code
 
